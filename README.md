@@ -1,12 +1,11 @@
 # bridge_latent_knowledge_selection_gap_for_conversation
 Codes for EMNLP2020 Paper "Bridging the Gap between Prior and Posterior Knowledge Selection for Knowledge-Grounded Dialogue Generation"
+## Based on Sequential Knowledge Transformer (SKT)
+The code and dataset can be found in \url{https://github.com/bckim92/sequential-knowledge-transformer}
 
 # TODO:
 The author is lazy.
 Please concat chenxiuyi2017@ia.ac.cn 
-
-# Based on Sequential Knowledge Transformer (SKT)
-The code and dataset can be found in \url{https://github.com/bckim92/sequential-knowledge-transformer}
 
 ## System Requirements
 - see the env.sh
